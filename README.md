@@ -811,4 +811,4 @@ I've also published a bunch of follow-up articles on my [blog](http://winterbe.c
 - [Fixing Java 8 Stream Gotchas with IntelliJ IDEA](http://winterbe.com/posts/2015/03/05/fixing-java-8-stream-gotchas-with-intellij-idea/)
 - [Using Backbone.js with Java 8 Nashorn](http://winterbe.com/posts/2014/04/07/using-backbonejs-with-nashorn/)
 
-You should [follow me on Twitter](https://twitter.com/winterbe_). Thanks for reading!
+You should [follow me on Twitter](https://twitter.com/winterbe_). Thanks for reading!!
